@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-color: rgb(214, 214, 214);
 }
 .container{
     margin: 150px 0 0 350px;
@@ -21,4 +21,12 @@ body{
 }
 .four{
     margin: 15px 0 0 0;
+}
+button{
+    width: 70px;
+    height: 70px;
+    border: none;
+    background: rgb(214, 214, 214);
+    border-radius: 20%;
+    box-shadow: 5px 5 px 10px #474343, -5px -5px 10px #eeebeb
 }

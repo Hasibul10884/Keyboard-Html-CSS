@@ -1,0 +1,24 @@
+body{
+    background-color: white;
+}
+.container{
+    margin: 150px 0 0 350px;
+}
+
+.row{
+    width: 80%;
+    height: 70px;
+}
+
+.one, .five{
+    margin-top: 15px;
+}
+.two{
+    margin: 15px 0 0 27px;
+}
+.three{
+    margin: 15px 0 0 50px;
+}
+.four{
+    margin: 15px 0 0 0;
+}

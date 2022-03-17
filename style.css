@@ -34,5 +34,21 @@ button{
     margin-left: 10px;
     outline: none;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
+
+}
+
+button:hover{
+    transform: scale(1.1);
+}
+.st-btn{
+    width: 250px;
+    border-radius: 10px;
+}
+.s-btn{
+    width: 90px;
+    border-radius: 10px;
+}
+.td{
+    width: 150px;
+    border-radius: 10px;  
 }
